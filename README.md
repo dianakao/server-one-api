@@ -5,7 +5,7 @@
 This API connects with COVID-19 Economic Injury Disaster Loans dataset, which is hosted on the cloud platform MongoDb Atlas. The API then uses Express, a node.js framework, to make a REST API that can call to the database and get back business data with API routing endpoints. The API is hosted on heroku (https://villagr.herokuapp.com/api), and the API calls allows the frontend team to fetch all the business data available in the database. The database consists of businesses' data from Virginia and Washington DC; businesses that recieved the most COVID-19 aid, and different business types. The API utilizes a limit function to its routing calls that allow the programmers to decide how much data they want to call in order to make rendering easier on the frontend. 
 
 
-## Team memmbers
+## Team members
 #### User Experience Designers
 - Diana Kao = https://www.linkedin.com/in/dianakao1/ 
 - Eileen Ward = https://www.linkedin.com/in/eileentward/
@@ -27,6 +27,7 @@ This API connects with COVID-19 Economic Injury Disaster Loans dataset, which is
 
 ## Framework 
 ![backend-framework - Copy](https://user-images.githubusercontent.com/14338321/112692687-b5e54d00-8e55-11eb-8685-45eb54c976cc.png)
+![Building   Iteration](https://user-images.githubusercontent.com/14967456/112758671-7df91980-8fbd-11eb-8d37-bef4d177ea1d.png)
 
  
 ### Credit
