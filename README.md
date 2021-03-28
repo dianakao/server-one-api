@@ -26,9 +26,8 @@ This API connects with COVID-19 Economic Injury Disaster Loans dataset, which is
 
 
 ## Framework 
-![backend-framework - Copy](https://user-images.githubusercontent.com/14338321/112692687-b5e54d00-8e55-11eb-8685-45eb54c976cc.png)
 ![Building   Iteration](https://user-images.githubusercontent.com/14967456/112758671-7df91980-8fbd-11eb-8d37-bef4d177ea1d.png)
-
+![Backend Framework](https://user-images.githubusercontent.com/14967456/112759071-573be280-8fbf-11eb-95e1-aaa86c2f469e.png)
  
 ### Credit
 - Data Source = https://www.sba.gov/funding-programs/loans/covid-19-relief-options/covid-19-economic-injury-disaster-loan#section-header-12
